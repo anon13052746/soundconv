@@ -1,0 +1,14 @@
+{
+  "name": "soundconv",
+  "version": "0.0.1",
+  "description": "convert to and from soundposts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "soundconv" : "../index.js"
+  }
+}
